@@ -1,19 +1,23 @@
-envo
-====
+# envo
 
 Copy and manage project environment variables within development teams.
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/envo.svg)](https://npmjs.org/package/envo)
-[![Downloads/week](https://img.shields.io/npm/dw/envo.svg)](https://npmjs.org/package/envo)
 [![License](https://img.shields.io/npm/l/envo.svg)](https://github.com/bpdo/envo/blob/master/package.json)
 
+<!-- [![Version](https://img.shields.io/npm/v/envo.svg)](https://npmjs.org/package/envo)
+[![Downloads/week](https://img.shields.io/npm/dw/envo.svg)](https://npmjs.org/package/envo) -->
+
 <!-- toc -->
-* [Usage](#usage)
-* [Commands](#commands)
-<!-- tocstop -->
+
+- [Usage](#usage)
+- [Commands](#commands)
+  <!-- tocstop -->
+
 # Usage
+
 <!-- usage -->
+
 ```sh-session
 $ npm install -g envo
 $ envo COMMAND
@@ -25,11 +29,15 @@ USAGE
   $ envo COMMAND
 ...
 ```
+
 <!-- usagestop -->
+
 # Commands
+
 <!-- commands -->
-* [`envo hello`](#envo-hello)
-* [`envo help [COMMAND]`](#envo-help-command)
+
+- [`envo hello`](#envo-hello)
+- [`envo help [COMMAND]`](#envo-help-command)
 
 ## `envo hello`
 
@@ -65,4 +73,5 @@ OPTIONS
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.2.0/src/commands/help.ts)_
+
 <!-- commandsstop -->
